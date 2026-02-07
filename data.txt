@@ -1,0 +1,4 @@
+1. understand the dataset
+2. identify the problems - incorrect data type, duplicate entry
+3. Plan next step
+4. 
